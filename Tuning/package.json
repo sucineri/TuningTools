@@ -1,0 +1,12 @@
+{
+  "name": "tuning",
+  "version": "1.0.0",
+  "description": "downloads tuning data",
+  "dependencies": {
+    "grille-downloader": "git+https://github.com/wasedaigo/grille-downloader.git",
+    "grille-xlsx": "git+https://github.com/wasedaigo/grille-xlsx.git",
+    "msgpack-lite": "^0.1.26"
+  },
+  "author": "Yi Feng Ye",
+  "license": "ISC"
+}
